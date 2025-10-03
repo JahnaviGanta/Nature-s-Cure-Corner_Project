@@ -6,4 +6,6 @@ Using traditional naturopathy, herbal remedies,and detox therapies, Nature's Cur
 
 #Screenshots
 
+#Home Page
+
 <img width="1059" height="741" alt="Image" src="https://github.com/user-attachments/assets/39b33857-7a81-427e-9dc1-37d7b79607a9" />
